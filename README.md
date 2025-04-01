@@ -1,4 +1,4 @@
-# Reflection and Assembly - Project 1 - Kavalevich Daniil
+# Short Guide & Explanation
 ---
 
 ## Project Launch
